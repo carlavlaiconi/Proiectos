@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1673351150 source:/home/carla/Documents/ProjectOS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<string.h>
+	<wait.h>
+	<sys/types.h>
+	"executeCommands.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1673479696 /home/carla/Documents/ProjectOS/executeCommands.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<string.h>
+	<wait.h>
+	<sys/types.h>
+	"cd1.h"
+	"tail1.h"
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	"uniq1.h"
+
+1673297001 /home/carla/Documents/ProjectOS/cd1.h
+
+1673303843 /home/carla/Documents/ProjectOS/tail1.h
+
+1673533886 source:/home/carla/Documents/ProjectOS/uniq1.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"uniq1.h"
+
+1673388377 /home/carla/Documents/ProjectOS/uniq1.h
+
